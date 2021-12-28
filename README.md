@@ -4,4 +4,4 @@
 
 문제 공유
 
-/b[~~](32)
+[~~](https://www.acmicpc.net/problem/2557)
