@@ -1,6 +1,4 @@
-count = int(input())
+number = int(input())
 
-for i in range(count):
-    A, B = map(int, input().split())
-    sum = A + B
-    print(sum)
+for i in range(1, 10):
+    print(number, '*', i, '=', number * i)
