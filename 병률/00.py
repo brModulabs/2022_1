@@ -11,3 +11,7 @@ A,B,C = input().split()
 
 for re in 바보.split('\n'):
     print(eval(re))
+
+import numpy as np
+
+
